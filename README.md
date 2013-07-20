@@ -1,4 +1,4 @@
-waffle.io  [![Stories in Ready](http://badge.waffle.io/waffleio/waffle.io.png)](http://waffle.io/waffleio/waffle.io)
+waffle.io  [![Stories in Ready](https://badge.waffle.io/waffleio/waffle.io.png)](http://waffle.io/waffleio/waffle.io)
 =========
 
 A public repo to keep track of our current work.
