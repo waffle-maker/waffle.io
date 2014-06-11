@@ -19,4 +19,4 @@ Waffle.io allows you to add a Waffle badge to your README (as seen above) so tha
 
 ### Contributing Issues
 
-Feel free to add any issues for features we should work on. You can add issues through the GitHub interface or  directly on our Waffle.io board.  
+Feel free to add any issues for features we should work on. You can add issues through the GitHub interface or  directly on our [Waffle.io board](http://waffle.io/waffleio/waffle.io).  
