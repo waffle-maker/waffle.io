@@ -11,7 +11,7 @@ Users can add issues right from the Waffle.io interface. Each issue in the repos
 
 ### Labels and Milestones
 
-You can also update and manage the labels for each issue as well as see what milestone the issue is attached to.
+You can also view the labels and milestones for each issue.
 
 ### Badges
 
