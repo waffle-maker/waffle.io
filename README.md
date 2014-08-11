@@ -23,8 +23,8 @@ You are able to add a throughput graph to your README so that any users or team 
 
 <p style="margin: 0">
   <a href="https://waffle.io/waffleio/waffle.io/metrics">
-    <img width="790" height="170" src="http://graphs.waffle.io/waffleio/waffle.io/throughput.svg" />
-  <a href="https://waffle.io/waffleio/waffle.io">
+    <img width="520" height="170" src="http://graphs.waffle.io/waffleio/waffle.io/throughput.svg" />
+  </a>
 </p>
 
 ### Contributing Issues
