@@ -21,11 +21,7 @@ Waffle.io allows you to add a Waffle badge to your README (as seen above) so tha
 
 You are able to add a throughput graph to your README so that any users or team members can see how active and productive your project is.
 
-<p style="margin: 0">
-  <a href="https://waffle.io/waffleio/waffle.io/metrics">
-    <img width="520" height="170" src="http://graphs.waffle.io/waffleio/waffle.io/throughput.svg" />
-  </a>
-</p>
+[![Throughput Graph](http://graphs.waffle.io/waffleio/waffle.io/throughput.svg)](https://waffle.io/waffleio/waffle.io/metrics)
 
 ### Contributing Issues
 
