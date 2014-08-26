@@ -1,4 +1,4 @@
-waffle.io  [![Stories in Ready](https://badge.waffle.io/waffleio/waffle.io.png)](http://waffle.io/waffleio/waffle.io)
+Waffle.io  [![Stories in Ready](https://badge.waffle.io/waffleio/waffle.io.png)](http://waffle.io/waffleio/waffle.io)
 =========
 
 A public repo to keep track of our current work.
@@ -25,4 +25,4 @@ You are able to add a throughput graph to your README so that any users or team 
 
 ### Contributing Issues
 
-Feel free to add any issues for features we should work on. You can add issues through the GitHub interface or  directly on our [Waffle.io board](http://waffle.io/waffleio/waffle.io).
+Feel free to add any issues for features we should work on. You can add issues through the GitHub interface or  directly on our [Waffle.io board](http://waffle.io/waffleio/waffle.io). It's best to [search](https://waffle.io/waffleio/waffle.io?search=customer%20requested) existing issues to reduce duplicates and join in on the conversation.
