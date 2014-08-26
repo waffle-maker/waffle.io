@@ -7,7 +7,7 @@ Waffle listens to the cues in your process to update your work status automatica
 
 ### Issues
 
-Users can add issues right from the Waffle.io interface. Each issue in the repository is represented as a card. As issues are created and closed, the waffle board associated with that repository is also updated. You can also view and make comments right in the waffle.io interface. To move issues between columns, you can drag and drop and everything is updated for you.
+Users can add issues right from the Waffle.io interface. Each issue in the repository is represented as a card. As issues are created and closed, the Waffle board associated with that repository is also updated. You can also view and make comments right in the Waffle.io interface. To move issues between columns, you can drag and drop and everything is updated for you.
 
 ### Labels and Milestones
 
