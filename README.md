@@ -1,4 +1,4 @@
-waffle.io  [![Stories in Ready](https://badge.waffle.io/waffleio/waffle.io.png)](http://waffle.io/waffleio/waffle.io)
+Waffle.io  [![Stories in Ready](https://badge.waffle.io/waffleio/waffle.io.svg)](http://waffle.io/waffleio/waffle.io)
 =========
 
 A public repo to keep track of our current work.
@@ -7,7 +7,7 @@ Waffle listens to the cues in your process to update your work status automatica
 
 ### Issues
 
-Users can add issues right from the Waffle.io interface. Each issue in the repository is represented as a card. As issues are created and closed, the waffle board associated with that repository is also updated. You can also view and make comments right in the waffle.io interface. To move issues between columns, you can drag and drop and everything is updated for you.
+Users can add issues right from the Waffle.io interface. Each issue in the repository is represented as a card. As issues are created and closed, the Waffle board associated with that repository is also updated. You can also view and make comments right in the Waffle.io interface. To move issues between columns, you can drag and drop and everything is updated for you.
 
 ### Labels and Milestones
 
@@ -25,4 +25,4 @@ You are able to add a throughput graph to your README so that any users or team 
 
 ### Contributing Issues
 
-Feel free to add any issues for features we should work on. You can add issues through the GitHub interface or  directly on our [Waffle.io board](http://waffle.io/waffleio/waffle.io).
+Feel free to add any issues for features we should work on. You can add issues through the GitHub interface or  directly on our [Waffle.io board](http://waffle.io/waffleio/waffle.io). It's best to [search](https://waffle.io/waffleio/waffle.io?search=customer%20requested) existing issues to reduce duplicates and join in on the conversation.
