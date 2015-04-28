@@ -1,4 +1,4 @@
-Waffle.io  [![Stories in Ready](https://badge.waffle.io/waffleio/waffle.io.svg)](http://waffle.io/waffleio/waffle.io)
+Waffle.io  [![Stories in Progress](https://badge.waffle.io/waffleio/waffle.io.svg?label=waffle%3Ain%20progress&title=In%20Progress)](http://waffle.io/waffleio/waffle.io)
 =========
 
 A public repo to keep track of our current work.
