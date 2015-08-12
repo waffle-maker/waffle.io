@@ -1,6 +1,8 @@
 Waffle.io  [![Stories in Progress](https://badge.waffle.io/waffleio/waffle.io.svg?label=waffle%3Ain%20progress&title=In%20Progress)](http://waffle.io/waffleio/waffle.io)
 =========
-Waffle is the tastiest way to plan, organize, and track your work in GitHub & GitHub Issues. Sign up free at [http://waffle.io](http://waffle.io)
+Waffle is a project management tool for dev teams, powered by GitHub. Manage your projects alongside your code for free at [http://waffle.io](http://waffle.io).
+
+![githubwafflelove thin](https://cloud.githubusercontent.com/assets/100216/9208980/322e1b52-4042-11e5-88d6-d29bf077503b.png)
 
 
 ### About this Repository
@@ -11,12 +13,11 @@ It's best to [search our board](https://waffle.io/waffleio/waffle.io?search=cust
 
 ### What is Waffle? 
 
-Waffle is a project management tool powered by your repository's GitHub Issues and Pull Requests. 
+Waffle is a project management tool *powered by your GitHub Issues and Pull Requests.*
 
 Interact with your Issues and Pull Requests from one or more repositories in the form of cards on a board. Plan, organize, and track work together as a team in a view that works for everyone.
 
-![board image](https://cloud.githubusercontent.com/assets/100216/9175016/6013dd5a-3f51-11e5-9286-bff3fe271aa9.png)
-
+<img width="1262" alt="screen shot 2015-08-10 at 11 18 33 am" src="https://cloud.githubusercontent.com/assets/100216/9175016/6013dd5a-3f51-11e5-9286-bff3fe271aa9.png">
 
 #### Easy Set Up
 
