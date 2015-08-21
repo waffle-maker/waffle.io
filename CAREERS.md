@@ -1,3 +1,5 @@
+![flatirons in winter - https://www.flickr.com/photos/zachd1_618/4252473399/in/photolist-7tM3bT-7hCAVb-e3jhvG-8bzpG2-dvCihu-KGasm-jHW6UH-he4ohN-fzVBWP-nd4X41-dp2r8F-oQyTHe-qKsJcY-xisXK7-8h8xa5-fxPGcc-5R5BeK-68dTvN-i32ScC-5zMags-8Mfmma-eSceLW-kgn8H5-8NgfRe-eTdPWD-gv9iA-dmTSN4-5AaAye-8KoSSF-pp9mLP-5sP1Zu-4YxP4y-23uWfz-cfXKx3-aVbEdK-enCFpU-9BdV14-br88Uv-vFcHbn-iwLWsh-9XwPUE-qttExy-oyZre6-pGsQ2U-v238Zh-wCx5TR-5Guj3D-vyv1y7-eidME1-7km9Eh](https://cloud.githubusercontent.com/assets/84629/9413979/79d370d0-47f2-11e5-9a9c-ae79236aaedd.jpg)
+
 _We're currently looking for talented engineers to join our team in Boulder, Colorado. Interested? Keep reading :)._
 
 ## Who Are We?
