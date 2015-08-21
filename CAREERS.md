@@ -1,3 +1,5 @@
+_We're currently looking for talented engineers to join our team in Boulder, Colorado. Interested? Keep reading :)._
+
 ## Who Are We?
 
 At Waffle.io, we're reinventing the way engineering teams track work. We believe developers shouldn't have to do extra work to update others on their status, so Waffle does it for them.
