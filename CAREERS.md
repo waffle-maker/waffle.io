@@ -48,11 +48,22 @@ We use our own product to manage our work. Anyone in the world can see what we�
 
 ## Open Positions
 
-### Technical Support
+### Technical Support Engineer
 
-We're looking for someone to help us serve our customers better, by answering their questions and to help diagnose issues they come across. This is a very technical role, since our product is serving a technical audience. This role will grow into helping us support our on-premises product, [Waffle Takeout](https://takeout.waffle.io), which will involve understanding networking, docker, and server infrastructure. 
+We're looking for someone to help us serve our customers better, by answering their questions and diagnosing issues they come across. This is a very technical role, since our product is serving a technical audience. This role will grow into helping us support our on-premises product, [Waffle Takeout](https://takeout.waffle.io), which will involve understanding networking, docker, and server infrastructure. 
 
 We're a small team with a huge mission; there are many roles for you to grow into or create.
+
+#### More about the role
+As a technical support engineer, you will interact with customers via our in-app messaging platform, Intercom.io, our public GitHub repository where customers report issues and feature requests  ([http://waffle.io/waffleio/waffle.io](http://waffle.io/waffleio/waffle.io)), and Twitter (@waffleio) to assist with technical questions and issue reports. We’re looking for someone who learns quickly, communicates clearly, and wants to give customers the best experience possible.
+
+*Key Responsibilities:*
+- Act as first line of defense for customer questions, feedback, and bug reports through Intercom
+- Provide customers with excellent customer service including relaying best practices, diagnosing bugs, and continually keeping customers updated on the status of their requests
+- Assist with creating and updating technical documentation for new and existing features
+- Track and relay customer feedback and bug reports to the rest of the team 
+- Perform testing of features & site functions, escalate issues, and communicate issues to the team
+
 
 ## Think You’re a Fit?
 
