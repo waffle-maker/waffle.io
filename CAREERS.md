@@ -52,7 +52,7 @@ We use our own product to manage our work. Anyone in the world can see what weâ€
 
 We're looking for someone to help us serve our customers better, by answering their questions and to help diagnose issues they come across. This is a very technical role, since our product is serving a technical audience. This role will grow into helping us support our on-premises product, [Waffle Takeout](https://takeout.waffle.io), which will involve understanding networking, docker, and server infrastructure. 
 
-Our hope is that this candidate will be a young engineer who will transition into a full-time developer role in 6 months, at which time we'll bring on another candidate to follow the same footprints.
+Our hope is that this candidate will be a young engineer who will transition into a full-time developer role in 8 months, at which time we'll bring on another candidate to follow the same footprints.
 
 ## Think Youâ€™re a Fit?
 
