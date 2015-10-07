@@ -1,12 +1,12 @@
 ![flatirons in winter - https://www.flickr.com/photos/zachd1_618/4252473399/in/photolist-7tM3bT-7hCAVb-e3jhvG-8bzpG2-dvCihu-KGasm-jHW6UH-he4ohN-fzVBWP-nd4X41-dp2r8F-oQyTHe-qKsJcY-xisXK7-8h8xa5-fxPGcc-5R5BeK-68dTvN-i32ScC-5zMags-8Mfmma-eSceLW-kgn8H5-8NgfRe-eTdPWD-gv9iA-dmTSN4-5AaAye-8KoSSF-pp9mLP-5sP1Zu-4YxP4y-23uWfz-cfXKx3-aVbEdK-enCFpU-9BdV14-br88Uv-vFcHbn-iwLWsh-9XwPUE-qttExy-oyZre6-pGsQ2U-v238Zh-wCx5TR-5Guj3D-vyv1y7-eidME1-7km9Eh](https://cloud.githubusercontent.com/assets/84629/9413979/79d370d0-47f2-11e5-9a9c-ae79236aaedd.jpg)
 
-_We're currently looking for talented engineers to join our team in Boulder, Colorado. Interested? Keep reading :)._
+_We're currently looking to grow our team in Boulder, Colorado and Raleigh, North Carolina. Interested? Keep reading :)._
 
 ## Who Are We?
 
 At Waffle.io, we're reinventing the way engineering teams track work. We believe developers shouldn't have to do extra work to update others on their status, so Waffle does it for them.
 
-Waffle.io is an Enterprise Lean Startup, running inside one of largest independent software corporations in the world, CA Technologies. We believe in rapidly iterating on solutions with our customers, to find problems that are worth solving.
+Waffle.io is an Enterprise Lean Startup, running inside one of the largest independent software corporations in the world, CA Technologies. We believe in rapidly iterating on solutions with our customers, to find problems that are worth solving.
 
 Are you passionate about improving the lives of developers like yourself? Do you thrive in a startup environment, where it’s up to you to solve a wide range of technical problems and work across the stack? If so, we’d love to meet you!
 
@@ -34,9 +34,9 @@ We’re building a product that we ourselves use every day, and we know we need 
 
 ### The Team
 
-We’re a distributed team of four, with two in Boulder, CO and two in Raleigh, NC. For now we’re only accepting candidates who are willing to relocate to Boulder.
+We’re a distributed team, with teammates in Boulder, CO and Raleigh, NC.
 
-We run as a startup inside a big company. That means we do our own sales, marketing, devops, and of course product, development, and support. As an engineer, you’ll have a hand in everything.
+We run as a startup inside a big company. That means we do our own sales, marketing, devops, and of course product, development, and support. Each of us wears many hats.
 
 ### The Tech
 
@@ -45,6 +45,14 @@ Waffle.io runs on a NodeJS, AngularJS, CoffeeScript, MongoDB, and Docker stack. 
 ### The Process
 
 We use our own product to manage our work. Anyone in the world can see what we’re up to here: https://waffle.io/waffleio/waffle.io.
+
+## Open Positions
+
+### Technical Support
+
+We're looking for someone to help us serve our customers better, by answering their questions and to help diagnose issues they come across. This is a very technical role, since our product is serving a technical audience. This role will grow into helping us support our on-premises product, [Waffle Takeout](https://takeout.waffle.io), which will involve understanding networking, docker, and server infrastructure. 
+
+Our hope is that this candidate will be a young engineer who will transition into a full-time developer role in 6 months, at which time we'll bring on another candidate to follow the same footprints.
 
 ## Think You’re a Fit?
 
