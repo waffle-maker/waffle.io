@@ -63,6 +63,7 @@ As a technical support engineer, you will interact with customers via our in-app
 - Assist with creating and updating technical documentation for new and existing features
 - Track and relay customer feedback and bug reports to the rest of the team 
 - Perform testing of features & site functions, escalate issues, and communicate issues to the team
+- When possible, jump in the code to fix issues or pair with a dev to fix them. Handling the support queue won't take all your time, and we want to enable you to grow into other roles on the team.
 
 
 ## Think You’re a Fit?
