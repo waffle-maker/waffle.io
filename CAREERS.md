@@ -48,6 +48,5 @@ We use our own product to manage our work. Anyone in the world can see what weâ€
 
 ## Open Positions
 
-We don't currently have any open positions at this time, but we're always looking for talented people to join our team. Think you would be a good addition to the Waffle team? Send your resume to team@waffle.io for consideration in the future.
-
+We don't currently have any open positions at this time, but we're always looking for talented people to join our team. Think you would be a good addition to the Waffle team? Send your resume to team@waffle.io.
 
