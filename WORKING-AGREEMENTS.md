@@ -18,7 +18,16 @@ Since Waffle is continuously deployed via [Codeship](https://codeship.com) when 
 
 ### All PRs should be code reviewed and functionally reviewed before merging
 Ideally PRs should also be deployed to our staging environment, if possible. 
+Wait until someone gives you a :+1: before merging.
 
 ### Review PRs after standup, if not sooner
 As a distributed team, it's sometimes easy to miss reviewing a peer's PR. We don't want to stop the flow of work to have PRs reviewed immediately, but they should be looked at right after our morning Standup if they're still un-reviewed. The Waffle "Needs Review" column is the best place to see if there are open PRs that need someone's attention.
+
+### How do we modify our working agreements?
+Any teammate can suggest we modify, remove, or add a working agreement. Any change needs to be accepted by the whole team, using a fist of five vote:
+- 5: This change to our working agreements makes me the most excited I've ever been to work together as a team
+- 4: This change is great, 100% on board
+- 3: I'm not that passionate about it, but I'll agree to it and not complain about it.
+- 2: I have some reservations. I can't agree to this until we work through them.
+- 1: I can't agree to this.
 
