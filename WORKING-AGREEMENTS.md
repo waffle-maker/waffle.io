@@ -10,7 +10,7 @@ As our team grows, it's important to make sure the work we do is clearly defined
 ### Use the `expedite` label for any work that's pulled into "In Progress" and supercedes current work.
 For example, a customer reported bug might need to be expedited. Put the `expedited` label on it, so the whole team knows that we're blocking other work to jump on it.
 
-### Talk about any work that's moved to "In Progress" or "Current Iteration" outside of a planning meeting, either in Slack or during Standup.
+### Talk about any work that's moved to "In Progress" or "Current Iteration" outside of a planning meeting, either in the team chat tool or during Standup.
 We plan in 2-week increments (called Iterations). It's common for interrupt work to be added to the current iteration based on customer support needs. For any interrupt work, make sure we talk about it to keep the team in sync.
 
 ### PRs for all code changes
