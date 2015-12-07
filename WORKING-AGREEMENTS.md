@@ -8,7 +8,7 @@ Particularly Fridays at 6pm :). At Waffle we continuously deploy our code to pro
 As our team grows, it's important to make sure the work we do is clearly defined before we do it. The AC and the Size are determined by the team, usually during a weekly planning meeting. This working agreement helps us all stay on the same page with what we're committing to during an iteration.
 
 ### Use the `expedite` label for any work that's pulled into "In Progress" and supercedes current work.
-For example, an important customer reported bug might need to be expedited. Put the `expedited` label on it, so the whole team knows that we're blocking other work to jump on it.
+For example, a customer reported bug might need to be expedited. Put the `expedited` label on it, so the whole team knows that we're blocking other work to jump on it.
 
 ### Talk about any work that's moved to "In Progress" or "Current Iteration" outside of a planning meeting, either in Slack or during Standup.
 We plan in 2-week increments (called Iterations). It's common for interrupt work to be added to the current iteration based on customer support needs. For any interrupt work, make sure we talk about it to keep the team in sync.
