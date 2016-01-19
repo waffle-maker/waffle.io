@@ -23,6 +23,9 @@ Wait until someone gives you a :+1: before merging.
 ### Review PRs after standup, if not sooner
 As a distributed team, it's sometimes easy to miss reviewing a peer's PR. We don't want to stop the flow of work to have PRs reviewed immediately, but they should be looked at right after our morning Standup if they're still un-reviewed. The Waffle "Needs Review" column is the best place to see if there are open PRs that need someone's attention.
 
+### Work that can be public should be public
+Our Waffle board is publicly available at waffle.io/waffleio/waffle.io. Any work that can be made public should be made public for everyone to see what we're working on (and why!).
+
 ### How do we modify our working agreements?
 Any teammate can suggest we modify, remove, or add a working agreement. Any change needs to be accepted by the whole team, using a fist of five vote:
 - 5: This change to our working agreements makes me the most excited I've ever been to work together as a team
